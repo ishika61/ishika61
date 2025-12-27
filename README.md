@@ -1,3 +1,20 @@
+<h1 align="center">Hey, I'm Ishika Savita 👋</h1>
+<h3 align="center">Full Stack Developer | B.Tech Electrical Engineering</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ishika-savita-603293293/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/ishika61">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:ishikasavita946@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+
+
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech Electrical Engineering student at **MITS Gwalior**
