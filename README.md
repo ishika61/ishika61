@@ -1,6 +1,15 @@
-Hey! I am Ishika Savita
+### 👩‍💻 About Me
 
-## 🛠️ Tech Stack
+I’m a passionate **Full Stack Developer** and a **B.Tech Electrical Engineering student** at **MITS Gwalior**, with a strong interest in building scalable and user-friendly web applications.
+
+I work primarily with **React, Next.js, Node.js, and Express.js**, and I enjoy designing clean frontends using **HTML, Tailwind CSS, Bootstrap, and Material UI**. On the backend, I have hands-on experience with **RESTful APIs**, **MySQL**, and **MongoDB**.
+
+I’ve built real-world projects like **RestroBuddy**, a full-stack food delivery web application, and an **AI-powered Code Review tool** using the **Gemini API**. I have a solid understanding of **OOPS, DBMS, and Computer Networks**, which helps me write efficient and maintainable code.
+
+I’m always eager to learn new technologies, improve my problem-solving skills, and grow as a developer through internships, projects, and hackathons.
+
+
+🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-333?style=flat-square&logo=java)
