@@ -1,4 +1,9 @@
-<h1 align="center">Hey, I'm Ishika Savita 👋</h1>
+<h1 align="center">
+  Hi, I'm Ishika Savita 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+
+
 <h3 align="center">Full Stack Developer | B.Tech Electrical Engineering</h3>
 
 <p align="center">
